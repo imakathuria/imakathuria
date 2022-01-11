@@ -40,4 +40,3 @@ Hii Everyone, I am Akhil Kathuria. I am a sophomore at DAVIET pursuing B.tech in
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imakathuria&show_icons=true&locale=en&layout=compact" alt="imakathuria" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imakathuria&show_icons=true&locale=en" alt="imakathuria" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imakathuria&" alt="imakathuria" /></p>
