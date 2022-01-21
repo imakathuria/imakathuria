@@ -1,4 +1,10 @@
- <img src="https://www.teahub.io/photos/full/168-1688005_anime-animated-gif-as-desktop-background-hd-gif.gif" width="100%" height="200">
+<!--  <img src="https://www.teahub.io/photos/full/168-1688005_anime-animated-gif-as-desktop-background-hd-gif.gif" width="100%" height="200"> -->
+
+<!--   <img src= "https://media0.giphy.com/media/3o7buijTqhjxjbEqjK/200.gif" width="100%" height="200"> -->
+
+  <img src= "https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" width="100%" height="400">
+    
+<!--   https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif -->
 
 <br>
 <hr>
@@ -9,7 +15,7 @@
 <p align="left"> <a href="https://twitter.com/imakathuria_" target="blank"><img src="https://img.shields.io/twitter/follow/imakathuria_?logo=twitter&style=for-the-badge" alt="imakathuria_" /></a> </p>
 <br>
 <hr>
- *Connect with me anytime*
+ *Connect with me anytime*<br>
 Instagram: https://www.instagram.com/imakathuria
 (Daily life updates) 
 
